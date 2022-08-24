@@ -26,7 +26,7 @@
 * [Python]()
 
 ## set up step for local development
-* [Virtual Environments]()
+* [virtual environments]()
 
 ## get code into production
 * [CICD]()
