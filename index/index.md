@@ -24,6 +24,7 @@
 * [version control]()
 * [SQL]()
 * [Python]()
+* [basic command line in linux terminal](commandline.md)
 
 ## set up step for local development
 * [virtual environments]()
