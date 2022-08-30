@@ -77,12 +77,5 @@ The basic flow of git goes:
     `git checkout coworkers/feature_branch`
 
     Here we have created a new local branch named local_feature_branch. This puts updates HEAD to point at the latest remote content and we can continue development on it from this point.
-    
+
     `git checkout -b local_feature_branch`
-
-
-
-
-
-
-
