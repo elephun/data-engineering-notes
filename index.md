@@ -21,10 +21,10 @@
 * [overall landscape]()
 
 ## the basics
-* [version control]()
+* [git](./notes/the_basics/git.md)
 * [SQL]()
 * [Python]()
-* [basic command line in linux terminal](./notes/commandline.md)
+* [basic command line in linux terminal](./notes/the_basics/commandline.md)
 
 ## set up step for local development
 * [virtual environments]()
